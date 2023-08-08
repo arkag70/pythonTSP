@@ -1,0 +1,34 @@
+{
+    "cities" : [
+        {
+            "name" : "A",
+            "x_coord" : 12,
+            "y_coord" : 23
+        },
+        {
+            "name" : "B",
+            "x_coord" : 45,
+            "y_coord" : 67
+        },
+        {
+            "name" : "C",
+            "x_coord" : 3,
+            "y_coord" : 89
+        },
+        {
+            "name" : "D",
+            "x_coord" : 56,
+            "y_coord" : 45
+        },
+        {
+            "name" : "E",
+            "x_coord" : 25,
+            "y_coord" : 26
+        },
+        {
+            "name" : "F",
+            "x_coord" : 19,
+            "y_coord" : 91
+        }
+    ]
+}
